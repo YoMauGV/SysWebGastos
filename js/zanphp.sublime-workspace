@@ -160,10 +160,69 @@
 	},
 	"expanded_folders":
 	[
-		"/home/manuelgvmx/www/html/SysWebGastos"
+		"/home/manuelgvmx/www/html/MarvinPHP"
 	],
 	"file_history":
 	[
+		"/home/manuelgvmx/www/html/SysWebGastos/js/zanphp.sublime-project",
+		"/home/manuelgvmx/www/html/ZanPHP/license.txt",
+		"/home/manuelgvmx/www/html/ZanPHP/www/helpers/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/www/config/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/www/classes/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/www/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/www/lib/themes/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/www/lib/themes/default/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/www/lib/scripts/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/www/lib/languages/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/www/lib/languages/gettext/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/www/lib/images/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/www/lib/fonts/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/www/lib/files/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/www/lib/files/videos/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/www/lib/files/unknown/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/www/lib/files/programs/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/www/lib/files/images/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/www/lib/files/documents/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/www/lib/files/codes/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/www/lib/files/audio/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/www/lib/css/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/www/lib/scripts/ajax/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/www/lib/scripts/js/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/www/lib/cache/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/libraries/minify/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/classes/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/libraries/gettext/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/hooks/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/helpers/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/drivers/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/drivers/db/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/drivers/cache/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/libraries/twitter/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/libraries/phpmailer/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/index.php",
+		"/home/manuelgvmx/www/html/ZanPHP/changelog.txt",
+		"/home/manuelgvmx/www/html/ZanPHP/README.md",
+		"/home/manuelgvmx/www/html/ZanPHP/.gitignore",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/vendors/js/jquery/jdpicker/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/vendors/js/jquery/jcrop/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/vendors/js/files/uploader/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/vendors/js/codemirror/theme/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/vendors/js/codemirror/util/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/vendors/js/codemirror/mode/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/vendors/css/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/vendors/css/mobil/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/libraries/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/vendors/js/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/vendors/js/underscore/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/vendors/js/mvc/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/vendors/js/mvc/backbone/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/vendors/js/less/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/vendors/js/json2/index.html",
+		"/home/manuelgvmx/www/html/ZanPHP/zan/vendors/js/jquery/jquerymobile/index.html",
+		"/home/manuelgvmx/www/html/SysWebGastos/js/index.js",
+		"/home/manuelgvmx/www/html/SysWebGastos/index.php",
+		"/home/manuelgvmx/www/html/SysWebGastos/README.md",
 		"/home/manuelgvmx/www/html/inedib/clases/usuario.class.php",
 		"/home/manuelgvmx/www/html/inedib/clases/alumno.class.php",
 		"/home/manuelgvmx/www/html/inedib/clases/personal.class.php",
@@ -264,7 +323,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "SysWebGastos.sublime-project",
+	"project": "zanphp.sublime-project",
 	"replace":
 	{
 		"height": 42.0
@@ -285,6 +344,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"~/www/html/SysWebGastos/js/zanphp.sublime-workspace"
+			]
 		],
 		"width": 380.0
 	},
@@ -305,7 +368,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 240.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
